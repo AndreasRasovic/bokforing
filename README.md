@@ -1,6 +1,6 @@
 # Bokföring
 
-Information kring bokföring. Uppdateras lite eftersom....
+Information kring bokföring. Uppdateras lite eftersom...
 
 ## Bokföringskonton
 
@@ -13,6 +13,8 @@ Information kring bokföring. Uppdateras lite eftersom....
 | 2510    | Skatteskulder                                     |   |
 | 2611    | Debiterad utgående moms                           | När ditt företag säljer och fakturerar en kund tar du ut moms från köparen som kallas utgående moms |
 | 2641    | Debiterad ingående moms                           | Varje gång du köper något till företaget betalar du ingående moms |
+| 3041    | Försäljning tjänster 25% moms Sv                  |   |
+| 3051    | Försäljning varor 25% moms Sv                     |   |
 | 5460    | Förbrukningsmaterial                              |   |
 | 6570    | Bankkostnader                                     |   |
 | 6590    | Övriga externa tjänster                           |   |
