@@ -1,6 +1,6 @@
 # Bokföring
 
-Information kring bokföring. Uppdateras lite eftersom...
+Mina egna anteckningar kring bokföring. Är främst för eget bruk, men om andra finner dom användbara så är det en bonus. Uppdateras kontinuerligt...
 
 ## Bokföringskonton
 
