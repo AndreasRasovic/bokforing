@@ -4,13 +4,20 @@ Mina egna anteckningar kring bokföring. Är främst för eget bruk, men om andr
 
 ## Bokföringskonton
 
+Denna lista radar upp dom olika bokföringskontona. Och dom olika serierna står för olika saker:
+
+* 1XXX - Tillgångskonton
+* 2XXX - Skuldkonton
+* 3XXX - Inkomstkonton
+* 7XXX-8XXX - Utgiftskonton
+
 | Konto | Benämning                                              | Beskrivning |
 |-------|--------------------------------------------------------|---|
-| 1330  | Andel i intresse, gemen styrd och ägarintr ftg         |   |
-| 1930  | Företagskonto / checkkonto / affärskonto               |   |
+| 1330  | Andel i intresse, gemen styrd och ägarintr ftg         | Andelar i intressebolag. De utgör finansiella tillgångar och finns på tillgångssidan i balansräkningen |
+| 1930  | Företagskonto / checkkonto / affärskonto               | Företagets bankkonto(n) |
 | 2091  | Balanserad vinst eller förlust                         |   |
 | 2099  | Årets resultat                                         |   |
-| 2510  | Skatteskulder                                          |   |
+| 2510  | Skatteskulder                                          | Ska enbart innehålla räkenskapsårets resultat |
 | 2611  | Debiterad utgående moms                                | När ditt företag säljer och fakturerar en kund tar du ut moms från köparen som kallas utgående moms |
 | 2641  | Debiterad ingående moms                                | Varje gång du köper något till företaget betalar du ingående moms |
 | 3041  | Försäljning tjänster 25% moms Sv                       |   |
